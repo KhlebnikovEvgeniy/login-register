@@ -16,9 +16,6 @@ Login & Registration Form
 **Build Tools**
 <img align="right" src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white" />
 
-**API Testing**
-<img align="right" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
-
 **Package Manager**
 <img align="right" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
 
