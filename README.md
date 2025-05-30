@@ -21,7 +21,7 @@ Login & Registration Form
 
 **Version Control**
 <img align="right" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white" />
 
 **IDE**
 <img align="right" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
